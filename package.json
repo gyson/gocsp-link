@@ -1,0 +1,19 @@
+{
+  "name": "gocsp-link",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyson <eilian.yunsong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gocsp-channel": "0.0.1",
+    "gocsp-thunk": "0.0.1"
+  }
+}
